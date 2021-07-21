@@ -1,0 +1,16 @@
+{
+  "mainPanelIcon": "",
+  "layerInfos": [],
+  "mapID": "1cf43ea7be61419fbdc5367cc54ae4ec",
+  "mainPanelText": "",
+  "refreshInterval": "",
+  "refreshEnabled": false,
+  "countEnabled": true,
+  "displayPanelIcon": false,
+  "hidePanel": false,
+  "continuousRefreshEnabled": false,
+  "expandList": true,
+  "showAllFeatures": true,
+  "upgradeFields": false,
+  "displayClusterLayer": true
+}
